@@ -73,4 +73,5 @@ The loss in our project was reduced well. When the loss is close to 0, we stop i
 - Hadeerismail. (2023, September 29). Emotion recognition. Kaggle. https://www.kaggle.com/code/hadeerismail/emotion-recognition
 - Mrgrhn. (2021, January 21). Alexnet with tensorflow. Medium. https://medium.com/swlh/alexnet-with-tensorflow-46f366559ce8
 - Hargurjeet. (2021, May 27). 7 best techniques to improve the accuracy of CNN w/O overfitting. Medium. https://medium.com/mlearning-ai/7-best-techniques-to-improve-the-accuracy-of-cnn-w-o-overfitting-6db06467182f
-- Complete guide to the adam optimization algorithm. Built In. (n.d.). https://builtin.com/machine-learning/adam-optimization 
+- Complete guide to the adam optimization algorithm. Built In. (n.d.). https://builtin.com/machine-learning/adam-optimization
+- Burket, P., Trier, F., Afzal, M. Z., Dengel, A., & Liwicki, M. (2015, September 17). MDeXpression: Deep Convolutional Neural Network for Expression Recognition. Papers with Code. https://paperswithcode.com/paper/dexpression-deep-convolutional-neural-network
