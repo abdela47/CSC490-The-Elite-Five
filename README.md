@@ -16,3 +16,10 @@ The dataset is Emotion Detection (2020), provided by Kaggle. This dataset contai
 
 ### Running The Model
 - Upload a zip of the dataset to your Google Drive account. Paste the path to the zip file into two locations marked with "TODO: Replace with path to dataset zip in your drive". This is to ensure that Google Colab can unzip the file into its file system. This is done to overcome the large overhead of directly reading files from Google Drive
+
+
+### References
+- Hadeerismail. (2023, September 29). Emotion recognition. Kaggle. https://www.kaggle.com/code/hadeerismail/emotion-recognition
+- Mrgrhn. (2021, January 21). Alexnet with tensorflow. Medium. https://medium.com/swlh/alexnet-with-tensorflow-46f366559ce8
+- Hargurjeet. (2021, May 27). 7 best techniques to improve the accuracy of CNN w/O overfitting. Medium. https://medium.com/mlearning-ai/7-best-techniques-to-improve-the-accuracy-of-cnn-w-o-overfitting-6db06467182f
+Complete guide to the adam optimization algorithm. Built In. (n.d.). https://builtin.com/machine-learning/adam-optimization 
