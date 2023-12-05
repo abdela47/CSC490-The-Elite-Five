@@ -25,6 +25,11 @@ Although we did look at other model implementations, we decided to create our ow
 
 ### Evaluation Results 
 The loss in our project was reduced well. When the loss is close to 0, we stop it early to save the running time.The training accuracy is pretty good in the following diagram. The final accuracy of our training data is approaching 93%. The training accuracy increases dramatically at the beginning and slower at the end of several iterations. The validation accuracy is increasing as well! It increases from 10% to 57% in the end.  The running time is also control in an acceptable range, average running time takes around 70 seconds.
+<img width="409" alt="Screen Shot 2023-12-05 at 6 11 17 PM" src="https://github.com/abdela47/CSC490-The-Elite-Five/assets/71188679/935c9fab-caaa-4601-8204-50d6c0abe3ce">
+<img width="1058" alt="IMAGEEEE" src="https://github.com/abdela47/CSC490-The-Elite-Five/assets/71188679/8a0b4f19-9722-43f9-92e4-5e99d1316549">
+
+
+
 
 
 ### Individual Contributions
