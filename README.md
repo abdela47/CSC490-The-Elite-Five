@@ -50,6 +50,7 @@ The dataset is Emotion Detection (2020), provided by Kaggle. This dataset contai
 
 
 ### Running The Model
+- Please use Google Colab and Google Drive
 - Upload a zip of the dataset to your Google Drive account. Paste the path to the zip file into two locations marked with "TODO: Replace with path to dataset zip in your drive". This is to ensure that Google Colab can unzip the file into its file system. This is done to overcome the large overhead of directly reading files from Google Drive
 
 
